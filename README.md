@@ -60,12 +60,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthkj&layout=compact" alt="Top Languages" />
+   
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=nishanthkj&show_icons=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/?username=nishanthkj&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthkj" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  
 </p>
