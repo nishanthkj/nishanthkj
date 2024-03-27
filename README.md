@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Nishanth K J</h1>
-<h3 align="center">Passionate Programmer from India</h3>
+<h3 align="center"> Programmer from India</h3>
+<h5 align="center"> Code For Fun </h5>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nishanthkj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
