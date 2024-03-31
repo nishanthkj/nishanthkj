@@ -61,17 +61,36 @@
 </p>
 
 ### GitHub Stats
+<!--
+## Top Open Source Repositories
 
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=nishanthkj&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nishanthkj/itasks)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=nishanthkj&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nishanthkj/urfolio)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=nishanthkj&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nishanthkj/web-projects)
+[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=nishanthkj&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nishanthkj/alsiam)
+
+<br/>
+
+[![All Repositories](https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white)](https://github.com/nishanthkj?tab=repositories)
+
+<br/>
+<hr/>
+<br/>
+!-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthkj&layout=compact" alt="Top Languages" />
-   
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthkj&theme=radical&border=7F3FBF&background=0D1117" alt="Nishanth's GitHub streak"/>
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/?username=nishanthkj&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthkj" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishanthkj&theme=radical" alt="Nishanth's GitHub Contribution"/>
 </p>
-
 <p align="left">
-  
-</p>
+<a> 
+    <img alt="Nishanth's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nishanthkj&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/>
+  <img alt="Nishanth's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nishanthkj&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/>
+  <br/>
+</a>
+<p align="left">
+<br/>
+
+![Nishanth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishanthkj&custom_title=Nishanth's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
