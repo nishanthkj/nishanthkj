@@ -1,6 +1,8 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ <!-- <img src="https://github.com/user-attachments/assets/bcc9cd5a-8cca-4599-8ec0-fde26a72f0f4" />!-->
+
 </div>
 <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&random=false&width=435&height=60&lines=Hi%2CThere%F0%9F%91%8B;I+am+Nishanth+K J;I+am+a+Student;I+am+a+Developer" alt="Typing SVG" /></a> </h1>
 <h3 align="center"> Programmer from India</h3>
